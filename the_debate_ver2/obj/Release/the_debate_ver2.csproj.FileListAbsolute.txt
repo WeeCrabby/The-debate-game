@@ -1,0 +1,4 @@
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\bin\Release\the_debate_ver2.exe
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Release\the_debate_ver2.csproj.CoreCompileInputs.cache
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Release\the_debate_ver2.exe
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Release\the_debate_ver2.csprojAssemblyReference.cache

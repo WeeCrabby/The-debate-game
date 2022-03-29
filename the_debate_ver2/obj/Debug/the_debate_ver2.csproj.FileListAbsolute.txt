@@ -1,0 +1,8 @@
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\bin\Debug\the_debate_ver2.exe
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\bin\Debug\the_debate_ver2.pdb
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Debug\the_debate_ver2.exe
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Debug\the_debate_ver2.pdb
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\bin\Debug\the_debate_ver2.exe.config
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Debug\the_debate_ver2.csproj.AssemblyReference.cache
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Debug\the_debate_ver2.csproj.SuggestedBindingRedirects.cache
+F:\winstuff\SŠ\prg\the_debate_ver2\the_debate_ver2\obj\Debug\the_debate_ver2.csproj.CoreCompileInputs.cache
